@@ -1,0 +1,7 @@
+name: CRAPI
+main: com.updg.CR_API.APIPlugin
+version: 1
+depend: [ItemRenamer, rmqsc]
+commands:
+  lobby:
+  hub:
